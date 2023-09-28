@@ -1,0 +1,400 @@
+/* // Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+    /* Section-1 */
+    .section-1-col-1-card{
+        width: 360px;
+        margin-left: -10px;
+        margin-top:  75px;
+    }
+    #section-1-col-2{
+        background-size: 100% 35%;
+    }
+    .section-1-col-2-h1{
+        font-size: 50px;
+        padding-top: 140px;
+        padding-left: 25px;
+    }
+    .section-1-col-2-h2 {
+        font-size: 35px;
+        margin-top: -25px;
+        padding-left: 111px;
+    }
+    .section-1-col-2-para{
+        font-size: 15px;
+    }
+    #section-1-col-2-btn{
+        margin-left: 85px;
+        margin-top: 5px;
+    }
+    /* Section-2 */
+    .section-2-h3{
+        font-size: 20px;
+    }
+    .section-2-para{
+        font-size: 12px;
+        padding-top: 50px;
+    }
+    #section-2{
+        background-size: 100%,415%;
+        background-position-x: -2px,-17px;
+        background-position-y: 200px,-165px;
+        margin-top: -155px;
+        height: 365px;
+    }
+
+    /* Section-3 */
+    #section-3{
+        height: 905px;
+    }
+    #section-3-col-2-btn{
+        margin-left: 82px;
+        background-position: center;
+        background-size: 100% 100%;
+    }
+
+    /* section-4 */
+    .section-4-box{
+        height: 210px;
+        width: 338px;
+    }
+    .section-4-search{
+        width: 280px;
+        margin-left: 30px;
+        margin-top: 105px;
+    }
+    .section-4-para{
+        font-size: 16px;
+        padding-bottom: 40px;
+        margin-bottom: 0%;
+    }
+    #section-4{
+        height: auto;
+    }
+
+    /* Section-5 */
+    .section-5-h4::after{
+        font-size: 40px;
+    }
+    .section-5-h4{
+        font-size: 40px;
+    }
+    .section-5-para{
+        font-size: 7px;
+    }
+    .section-5-p2{
+        font-size: 17px;
+        padding-top: 20px;
+        padding-bottom: 30px;
+    }
+    #section-5{
+        height: auto;
+    }
+
+    /* Section-6 */
+    #section-6{
+        height: auto;
+        background-size: 100% 100%;
+    }
+    .section-6-h4{
+        font-size: 70px;
+    }
+    .section-6-h5{
+        font-size: 55px;
+    }
+    .section-6-box-1{
+        margin-left: 17px;
+    }
+    .section-6-box-2{
+        margin-left: 17px;
+        margin-top: 115px;
+    }
+    .section-6-box-3{
+        margin-left: 17px;
+        margin-top: 115px;
+        margin-bottom: 100px;
+    }
+
+    /* Section-7 */
+    #section-7{
+        height: auto;
+    }
+    .section-7-col-1-para1{
+        padding-left: 0%;
+    }
+    .section-7-video{
+        height: 160px;
+        width: 330px;
+        margin-left: 0px;
+    }
+    .section-7-para{
+        font-size: 9px;
+        padding-left: 0px;
+    }
+    .section-7-h4{
+        padding-top: 20px;
+        padding-left: 8px;
+    }
+    #section-7-btn{
+        margin-top: 30px;
+        margin-bottom: 100px;
+        margin-left: 60px;
+    }
+
+    /* Section-8 */
+    #section-8{
+        height: auto;
+    }
+    #section-8-btn {
+        margin-top: 50px;
+        margin-bottom: 50px;
+        margin-left: 60px;
+    }
+
+    /* Section-9 */
+    #section-9{
+        height: auto;
+    }
+    .section-9-col-1-para{
+        font-size: 20px;
+        padding-top: 75px;
+    }
+    .section-9-col-2-para{
+        padding-top: 40px !important;
+    }
+    .section-9-sosal{
+        padding-left: 0px;
+        width: 355px;
+    }
+    .section-9-email{
+        padding-left: 75px !important;
+    }
+
+    /* Section-10 */
+    .section-10-para-1{
+        font-size: 14px;
+        padding-left: 20px;
+    }
+    .section-10-h5{
+        padding-left: 20px;
+    }
+    .section-10-h6{
+        padding-top: 40px;
+    }
+
+ }
+
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) { ... }
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+     /* Section-1 */
+     #nav-ul{
+        margin-right: 185px !important;
+    }
+    .section-1-col-1-card{
+        margin-left: 0%;
+        width: 375px;
+        margin-top: 200px;
+    }
+    .section-1-col-2-h1{
+        font-size: 50px;
+        padding-left: 25px;
+        padding-top: 280px;
+    }
+    .section-1-col-2-h2{
+        margin-top: 15px;
+        padding-left: 55px;
+    }
+    #section-1-col-2{
+        background-position-x: -100px;
+    }
+    .section-1-col-2-para{
+        font-size: 15px;
+    }
+    #section-1-col-2-btn{
+        margin-left: 85px;
+    }
+
+    /* Section-2 */
+    #section-2{
+        background-position-x: -10px,0px;
+        background-position-y: 275px,-165px;
+    }
+    .section-2-h3{
+        font-size: 40px;
+    }
+
+/* Section-3 */
+    .section-3-h5{
+        font-size: 35px;
+    }
+    .section-3-para{
+        padding-left: 15px;
+    }
+    #section-3-col-2-btn{
+        margin-left: 15px;
+    }
+    
+
+    /* Section-4 */
+    .section-4-box{
+        width: 725px;
+    }
+
+    /* Section-5 */
+    .section-5-para{
+        font-size: 16px;
+    }
+
+    /* Section-6 */
+    
+    .section-6-box-1{
+        margin-left: -5px;
+        height: 320px;
+        width: 245px;
+    }
+    .section-6-box-2{
+        margin-left: -5px;
+        height: 320px;
+        width: 245px;
+    }
+    .section-6-box-3{
+        margin-left: -5px;
+        height: 320px;
+        width: 245px;
+    }
+    .section-6-r1{
+        margin-left: 10px;
+    }
+    .section-6-off{
+        margin-top: 285px;
+        margin-left: 37px;
+    }
+   
+
+
+    /* Section-7 */
+    .section-7-para{
+        font-size: 10px;
+        padding-left: 25px;
+    }
+    #section-7-btn{
+        margin-left: 275px;
+        margin-top: 60px;
+    }
+    .section-7-video {
+        height: 235px;
+        width: 395px;
+        margin-left: 0px;
+    }
+    .section-7-h4{
+        padding-left: 30px;
+    }
+
+    /* Section-8 */
+    .section-8-img{
+        padding-left: 0px;
+        width: 220px;
+    }
+    #section-8-btn{
+        margin-left: 255px;
+    }
+
+     /* Section-9 */
+     .section-9-col-1-para{
+        font-size: 20px;
+        padding-left: 0px;
+    }
+    .section-9-sosal{
+        width: 350px;
+        padding-left: 5px;
+    }
+    .section-9-email{
+        padding-left: 100px !important;
+    }
+
+    /* Section-10 */
+    .section-10-h5{
+        padding-left: 30px;
+    }
+    .section-10-para-1{
+        font-size: 14px;
+        padding-left: 30px;
+    }
+    .section-10-h6{
+        font-size: 15px;
+    }
+    .section-10-a{
+        font-size: 14px;
+    }
+
+ }
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    /* Section-1 */
+    #nav-ul{
+        margin-right: 185px !important;
+    }
+    .section-1-col-1-card{
+        margin-left: 0%;
+    }
+    .section-1-col-2-h1{
+        font-size: 50px;
+        padding-left: 120px;
+        padding-top: 270px;
+    }
+    .section-1-col-2-h2{
+        margin-top: 15px;
+        padding-left: 145px;
+    }
+
+    /* Section-2 */
+    #section-2{
+        background-position-x: 115px,0px;
+    }
+
+    /* Section-4 */
+    .section-4-box{
+        width: 975px;
+    }
+
+    /* Section-6 */
+    
+    .section-6-box-1{
+        margin-left: 10px;
+    }
+    .section-6-box-2{
+        margin-left: 10px;
+    }
+    .section-6-box-3{
+        margin-left: 10px;
+    }
+
+
+    /* Section-7 */
+    .section-7-video{
+        margin-left: 40px;
+    }
+    .section-7-para{
+        font-size: 12px;
+    }
+    #section-7-btn{
+        margin-left: 385px;
+    }
+
+    /* Section-8 */
+    .section-8-img{
+        padding-left: 10px;
+    }
+    #section-8-btn{
+        margin-left: 385px;
+    }
+
+   
+
+ }
+
+/* // Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { ... }
